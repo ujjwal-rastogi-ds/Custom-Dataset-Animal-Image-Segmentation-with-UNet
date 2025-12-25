@@ -232,9 +232,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - TensorFlow and OpenCV communities
 
 ## **📧 Contact**
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Ujjwal Rastogi - [rastogiujjwal58@gmail.com](mailto:rastogiujjwal58@gmail.com)
 
-Project Link: [https://github.com/yourusername/animal-segmentation-unet](https://github.com/yourusername/animal-segmentation-unet)
 
 ## **🔗 References**
 1. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation
@@ -286,4 +285,4 @@ pdoc --html src/ --output-dir docs/
 
 ---
 
-*Last updated: December 2023*
+*Last updated: December 2025*
